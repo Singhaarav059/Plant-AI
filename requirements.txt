@@ -9,7 +9,3 @@ psycopg2-binary==2.9.9
 sqlalchemy==2.0.23
 werkzeug==2.3.7
 email-validator==2.1.0.post1
-<<<<<<< HEAD
-=======
-httpx==0.23.0  # Added for compatibility with OpenAI library
->>>>>>> 8b8f52aaccf25f0b64feacb7d067fb4136954542
